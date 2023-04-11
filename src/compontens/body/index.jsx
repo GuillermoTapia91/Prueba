@@ -1,6 +1,6 @@
 import video from "../../assets/video/discoteca.mp4"
 import "./style.css"
-export default function Cuerpo() {
+export default function CuartaPantalla() {
     return (
     <div  className="container">
         <video src={video} muted autoPlay loop></video>

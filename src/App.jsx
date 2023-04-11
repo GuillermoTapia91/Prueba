@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import Cuerpo from './compontens/body'
+import CuartaPantalla from './compontens/body'
 function App() {
   const [count, setCount] = useState(0)
 
@@ -8,7 +8,7 @@ function App() {
     
 
       <div className="App">
-          <Cuerpo/>
+          <CuartaPantalla/>
       </div>
     
   )
