@@ -10,6 +10,7 @@ export default function Body(){
       </div>
       <div>
         Abraham
+        <h2>esto es una prueba</h2>
       </div>
       <div>
         Jercy
