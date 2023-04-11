@@ -14,6 +14,7 @@ export default function Body(){
       <div>
         Jercy
       </div>
+      <h1>Hi World</h1>
     </div>
 
   )
