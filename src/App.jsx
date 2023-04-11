@@ -1,15 +1,15 @@
 import { useState } from 'react'
 import './App.css'
-import Cuerpo from './compontens/body'
+import Body from './components/body'
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     
 
-      <div className="App">
-          <Cuerpo/>
-      </div>
+    <div className="App">
+      <Body/>
+    </div>
     
   )
 }
